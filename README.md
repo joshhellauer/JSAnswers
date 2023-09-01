@@ -7,6 +7,6 @@
   typing "Pensive Wolf please answer our question:". 
   - However, the actual key entries you make are saved into a hidden string.
   - Then when you click ask, whatever keypresses you made will appear in the results label.
-  - __In other words, it looks like the computer answered your question, when really its just a prank.__
+  - In other words, __it looks like the computer answered your question, when really its just a prank.__
   - If the petition isn't entered correctly (ie, enter a period as first character), the result
   will seemingly refuse, which can prank your friends even harder if you force them to try it
