@@ -1,5 +1,5 @@
 # JSAnswers
-## Remake of "Peter Answers Virtual Tarot" using javascript. 
+## Remake of "Peter Answers Virtual Tarot" using javascript.  Link to original: [https://www.peteranswers.com/]
 
 ### -Fool your friends by asking a question... then typing in the "petition"
 **********************************************************
